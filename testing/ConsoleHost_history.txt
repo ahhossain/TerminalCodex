@@ -1,0 +1,5 @@
+Get-Service
+Get-Item C:\
+Test-Connection www.google.com
+Get-Help Get-Help
+dir
